@@ -68,7 +68,7 @@ def to_markdown_file(xml_path, shapes, connections):
 
     with open(md_filename, 'w') as md_file:
         # Write shapes to markdown
-        md_file.write(f"# Übersicht zum Diagramm **{base_name}**\n:")
+        md_file.write(f"# Übersicht zum Diagramm **{base_name}**:\n")
         md_file.write(f"## Shapes with Tooltip beginning 'ADAPT'\n")
         for shape in shapes:
             md_file.write(f"- **ID:** {shape['ID']}, **Label:** {shape['Label']}, **ADAPT Type:** {shape['ADAPT Type']}\n")
@@ -79,9 +79,9 @@ def to_markdown_file(xml_path, shapes, connections):
             md_file.write(f"- **ID:** {connection['ID']}, **Label:** {connection['Label']}, **Source:** {connection['Source']}, **Target:** {connection['Target']}, **ADAPT Type:** {connection['ADAPT Type']}, **Start Arrow:** {connection['Start Arrow']}, **End Arrow:** {connection['End Arrow']}\n")
             
             md_file.write(f"- **ID:** {connection['ID']}, **Label:** {connection['Label']}, **Source:** {connection['Source']}, **Target:** {connection['Target']}, **ADAPT Type:** {connection['ADAPT Type']}, **Start Arrow:** {connection['Start Arrow']}, **End Arrow:** {connection['End Arrow']}\n")
-            md_file.write(f"\n\n...und hier haben wir auch das Diagramm dazu:")
+            md_file.write(f"\n\n### und hier haben wir auch das Diagramm dazu:\n")
         
-        md_file.write(f"\n!({base_name}.png)")
+        md_file.write(f"![Diagramm {base_name}]({base_name}.png)\n")
 
     print(f"Markdown file '{md_filename}' has been created.")
 
