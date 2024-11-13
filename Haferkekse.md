@@ -23,4 +23,5 @@
 - **ID:** YSzEwsqtf66Z9LX4W5IN-57, **Label:** , **Source:** YSzEwsqtf66Z9LX4W5IN-4, **Target:** YSzEwsqtf66Z9LX4W5IN-5, **ADAPT Type:** LoosePrecedence, **Start Arrow:** none, **End Arrow:** block
 
 
-...und hier haben wir auch das Diagramm dazu:!(Haferkekse.png)
+...und hier haben wir auch das Diagramm dazu:
+!(Haferkekse.png)
