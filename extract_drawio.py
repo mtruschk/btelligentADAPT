@@ -1,5 +1,6 @@
 import xml.etree.ElementTree as ET
 import argparse
+import os
 
 def extract_information(xml_path):
     try:
@@ -59,6 +60,30 @@ def extract_style_value(style, key):
     # Helper function to extract values from the style attribute
     style_dict = dict(item.split('=') for item in style.split(';') if '=' in item)
     return style_dict.get(key, 'None')
+    
+def to_markdown_file(xml_path, shapes, connections):
+    # Generate markdown filename
+    base_name = os.path.splitext(xml_path)[0]
+    md_filename = f"{base_name}.md"
+
+    with open(md_filename, 'w') as md_file:
+        # Write shapes to markdown
+        md_file.write(f"# Übersicht zum Diagramm **{base_name}**\n:")
+        md_file.write(f"## Shapes with Tooltip beginning 'ADAPT'\n")
+        for shape in shapes:
+            md_file.write(f"- **ID:** {shape['ID']}, **Label:** {shape['Label']}, **ADAPT Type:** {shape['ADAPT Type']}\n")
+        
+        # Write connections to markdown
+        md_file.write("\n## Connections with Tooltip beginning 'ADAPT'\n")
+        for connection in connections:
+            md_file.write(f"- **ID:** {connection['ID']}, **Label:** {connection['Label']}, **Source:** {connection['Source']}, **Target:** {connection['Target']}, **ADAPT Type:** {connection['ADAPT Type']}, **Start Arrow:** {connection['Start Arrow']}, **End Arrow:** {connection['End Arrow']}\n")
+            
+            md_file.write(f"- **ID:** {connection['ID']}, **Label:** {connection['Label']}, **Source:** {connection['Source']}, **Target:** {connection['Target']}, **ADAPT Type:** {connection['ADAPT Type']}, **Start Arrow:** {connection['Start Arrow']}, **End Arrow:** {connection['End Arrow']}\n")
+            md_file.write(f"\n\n...und hier haben wir auch das Diagramm dazu:")
+        
+        md_file.write(f"!({base_name}.png)")
+
+    print(f"Markdown file '{md_filename}' has been created.")
 
 def main():
     parser = argparse.ArgumentParser(description='Extract draw.io shape and connection information from XML.')
@@ -77,6 +102,9 @@ def main():
     print("\nConnections (Edges):")
     for connection in connections:
         print(f"ID: {connection['ID']}, Label: {connection['Label']}, Source: {connection['Source']}, Target: {connection['Target']}, ADAPT Type: {connection['ADAPT Type']}, Start Arrow: {connection['Start Arrow']}, End Arrow: {connection['End Arrow']}")
+        
+    # Print extracted information
+    to_markdown_file(xml_path, shapes, connections)
 
 if __name__ == "__main__":
     main()
