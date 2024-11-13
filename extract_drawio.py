@@ -77,10 +77,8 @@ def to_markdown_file(xml_path, shapes, connections):
         md_file.write("\n## Connections with Tooltip beginning 'ADAPT'\n")
         for connection in connections:
             md_file.write(f"- **ID:** {connection['ID']}, **Label:** {connection['Label']}, **Source:** {connection['Source']}, **Target:** {connection['Target']}, **ADAPT Type:** {connection['ADAPT Type']}, **Start Arrow:** {connection['Start Arrow']}, **End Arrow:** {connection['End Arrow']}\n")
-            
-            md_file.write(f"- **ID:** {connection['ID']}, **Label:** {connection['Label']}, **Source:** {connection['Source']}, **Target:** {connection['Target']}, **ADAPT Type:** {connection['ADAPT Type']}, **Start Arrow:** {connection['Start Arrow']}, **End Arrow:** {connection['End Arrow']}\n")
-            md_file.write(f"\n\n### und hier haben wir auch das Diagramm dazu:\n")
-        
+                                    
+        md_file.write(f"\n\n### und hier haben wir auch das Diagramm dazu:\n")
         md_file.write(f"![Diagramm {base_name}]({base_name}.png)\n")
 
     print(f"Markdown file '{md_filename}' has been created.")
