@@ -44,4 +44,4 @@
 
 
 ### und hier haben wir auch das Diagramm dazu:
-![Diagramm Lakritzschnecke](../pngLakritzschnecke.png)
+![Diagramm Lakritzschnecke](../png/Lakritzschnecke.png)

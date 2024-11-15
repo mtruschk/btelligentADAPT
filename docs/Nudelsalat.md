@@ -44,4 +44,4 @@
 
 
 ### und hier haben wir auch das Diagramm dazu:
-![Diagramm Nudelsalat](../pngNudelsalat.png)
+![Diagramm Nudelsalat](../png/Nudelsalat.png)

@@ -14,4 +14,4 @@
 
 
 ### und hier haben wir auch das Diagramm dazu:
-![Diagramm Haferkekse](../pngHaferkekse.png)
+![Diagramm Haferkekse](../png/Haferkekse.png)
