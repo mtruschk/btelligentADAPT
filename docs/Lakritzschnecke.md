@@ -1,4 +1,4 @@
-# Übersicht zum Diagramm **Lakritzschnecke**:
+# Overview for Diagram **Lakritzschnecke**:
 ## Shapes with Tooltip beginning 'ADAPT'
 - **ID:** sCMjGG6YAH0hTthaaUGF-23, **Label:** Geography, **ADAPT Type:** Hierarchy
 - **ID:** sCMjGG6YAH0hTthaaUGF-31, **Label:** Country, **ADAPT Type:** HierarchyLevel
@@ -43,5 +43,5 @@
 - **ID:** sCMjGG6YAH0hTthaaUGF-127, **Label:** , **Source:** sCMjGG6YAH0hTthaaUGF-35, **Target:** sCMjGG6YAH0hTthaaUGF-124, **ADAPT Type:** LoosePrecedence, **Start Arrow:** none, **End Arrow:** block
 
 
-### und hier haben wir auch das Diagramm dazu:
-![Diagramm Lakritzschnecke](../png/Lakritzschnecke.png)
+### And here we also have the diagram:
+![Diagram Lakritzschnecke](../png/Lakritzschnecke.png)

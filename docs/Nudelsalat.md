@@ -1,4 +1,4 @@
-# Übersicht zum Diagramm **Nudelsalat**:
+# Overview for Diagram **Nudelsalat**:
 ## Shapes with Tooltip beginning 'ADAPT'
 - **ID:** QYO2ADdJI8bUxTSC_2SV-2, **Label:** Geografie, **ADAPT Type:** Hierarchy
 - **ID:** QYO2ADdJI8bUxTSC_2SV-10, **Label:** Land, **ADAPT Type:** HierarchyLevel
@@ -43,5 +43,5 @@
 - **ID:** QYO2ADdJI8bUxTSC_2SV-107, **Label:** , **Source:** QYO2ADdJI8bUxTSC_2SV-14, **Target:** QYO2ADdJI8bUxTSC_2SV-104, **ADAPT Type:** LoosePrecedence, **Start Arrow:** none, **End Arrow:** block
 
 
-### und hier haben wir auch das Diagramm dazu:
-![Diagramm Nudelsalat](../png/Nudelsalat.png)
+### And here we also have the diagram:
+![Diagram Nudelsalat](../png/Nudelsalat.png)

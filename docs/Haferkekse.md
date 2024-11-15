@@ -1,4 +1,4 @@
-# Übersicht zum Diagramm **Haferkekse**:
+# Overview for Diagram **Haferkekse**:
 ## Shapes with Tooltip beginning 'ADAPT'
 - **ID:** YSzEwsqtf66Z9LX4W5IN-2, **Label:** myHierarchy, **ADAPT Type:** Hierarchy
 - **ID:** YSzEwsqtf66Z9LX4W5IN-3, **Label:** myHierarchyLevel, **ADAPT Type:** HierarchyLevel
@@ -13,5 +13,5 @@
 - **ID:** YSzEwsqtf66Z9LX4W5IN-57, **Label:** , **Source:** YSzEwsqtf66Z9LX4W5IN-4, **Target:** YSzEwsqtf66Z9LX4W5IN-5, **ADAPT Type:** LoosePrecedence, **Start Arrow:** none, **End Arrow:** block
 
 
-### und hier haben wir auch das Diagramm dazu:
-![Diagramm Haferkekse](../png/Haferkekse.png)
+### And here we also have the diagram:
+![Diagram Haferkekse](../png/Haferkekse.png)

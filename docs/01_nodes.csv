@@ -1,0 +1,44 @@
+File Name,ID,Label,ADAPT Type
+Haferkekse,YSzEwsqtf66Z9LX4W5IN-2,myHierarchy,Hierarchy
+Haferkekse,YSzEwsqtf66Z9LX4W5IN-3,myHierarchyLevel,HierarchyLevel
+Haferkekse,YSzEwsqtf66Z9LX4W5IN-4,myDimensionMember,DimensionMember
+Haferkekse,YSzEwsqtf66Z9LX4W5IN-5,myAttribute,Attribute
+Haferkekse,YSzEwsqtf66Z9LX4W5IN-50,myDimension,Dimension
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-23,Geography,Hierarchy
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-31,Country,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-35,Customer,DimensionMember
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-39,Firm description,Attribute
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-42,Customer,Dimension
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-53,external organization,Hierarchy
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-61,internal organization,Hierarchy
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-69,Customer Group,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-73,NUTS-1,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-77,NUTS-3,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-81,NUTS-2,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-88,Sales Region,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-92,Sales Area,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-102,Customer Number,Attribute
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-106,Area Manager,Attribute
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-109,Region manager,Attribute
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-114,Name in home language,Attribute
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-118,Country,HierarchyLevel
+Lakritzschnecke,sCMjGG6YAH0hTthaaUGF-124,Industry Key,Attribute
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-2,Geografie,Hierarchy
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-10,Land,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-14,Kunde,DimensionMember
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-18,Firmenbezeichnung,Attribute
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-21,Kunde,Dimension
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-32,externe Organisation,Hierarchy
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-40,interne Organisation,Hierarchy
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-48,Konzern,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-52,NUTS-1,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-56,NUTS-3,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-60,NUTS-2,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-67,Vertriebsregion,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-71,Vertriebsgebiet,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-82,Kundennummer,Attribute
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-86,Außendienst-Mitarbeiter,Attribute
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-89,Regional-Direktor,Attribute
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-94,Name in Landessprache,Attribute
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-98,Land,HierarchyLevel
+Nudelsalat,QYO2ADdJI8bUxTSC_2SV-104,Branchenschlüssel,Attribute
