@@ -1,4 +1,4 @@
-# Übersicht zum Diagramm **C:\Users\meik.truschkowski\btelligentADAPT\docs\Haferkekse**:
+# Übersicht zum Diagramm **Haferkekse**:
 ## Shapes with Tooltip beginning 'ADAPT'
 - **ID:** YSzEwsqtf66Z9LX4W5IN-2, **Label:** myHierarchy, **ADAPT Type:** Hierarchy
 - **ID:** YSzEwsqtf66Z9LX4W5IN-3, **Label:** myHierarchyLevel, **ADAPT Type:** HierarchyLevel
@@ -14,4 +14,4 @@
 
 
 ### und hier haben wir auch das Diagramm dazu:
-![Diagramm C:\Users\meik.truschkowski\btelligentADAPT\docs\Haferkekse](png\C:\Users\meik.truschkowski\btelligentADAPT\docs\Haferkekse.png)
+![Diagramm Haferkekse](../pngHaferkekse.png)

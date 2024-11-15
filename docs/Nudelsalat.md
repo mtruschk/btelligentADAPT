@@ -1,4 +1,4 @@
-# Übersicht zum Diagramm **C:\Users\meik.truschkowski\btelligentADAPT\docs\Nudelsalat**:
+# Übersicht zum Diagramm **Nudelsalat**:
 ## Shapes with Tooltip beginning 'ADAPT'
 - **ID:** QYO2ADdJI8bUxTSC_2SV-2, **Label:** Geografie, **ADAPT Type:** Hierarchy
 - **ID:** QYO2ADdJI8bUxTSC_2SV-10, **Label:** Land, **ADAPT Type:** HierarchyLevel
@@ -44,4 +44,4 @@
 
 
 ### und hier haben wir auch das Diagramm dazu:
-![Diagramm C:\Users\meik.truschkowski\btelligentADAPT\docs\Nudelsalat](png\C:\Users\meik.truschkowski\btelligentADAPT\docs\Nudelsalat.png)
+![Diagramm Nudelsalat](../pngNudelsalat.png)
