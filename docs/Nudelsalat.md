@@ -1,4 +1,4 @@
-# ‹bersicht zum Diagramm **C:\Users\meik.truschkowski\btelligentADAPT\docs\Nudelsalat**:
+# √úbersicht zum Diagramm **C:\Users\meik.truschkowski\btelligentADAPT\docs\Nudelsalat**:
 ## Shapes with Tooltip beginning 'ADAPT'
 - **ID:** QYO2ADdJI8bUxTSC_2SV-2, **Label:** Geografie, **ADAPT Type:** Hierarchy
 - **ID:** QYO2ADdJI8bUxTSC_2SV-10, **Label:** Land, **ADAPT Type:** HierarchyLevel
@@ -14,11 +14,11 @@
 - **ID:** QYO2ADdJI8bUxTSC_2SV-67, **Label:** Vertriebsregion, **ADAPT Type:** HierarchyLevel
 - **ID:** QYO2ADdJI8bUxTSC_2SV-71, **Label:** Vertriebsgebiet, **ADAPT Type:** HierarchyLevel
 - **ID:** QYO2ADdJI8bUxTSC_2SV-82, **Label:** Kundennummer, **ADAPT Type:** Attribute
-- **ID:** QYO2ADdJI8bUxTSC_2SV-86, **Label:** Auﬂendienst-Mitarbeiter, **ADAPT Type:** Attribute
+- **ID:** QYO2ADdJI8bUxTSC_2SV-86, **Label:** Au√üendienst-Mitarbeiter, **ADAPT Type:** Attribute
 - **ID:** QYO2ADdJI8bUxTSC_2SV-89, **Label:** Regional-Direktor, **ADAPT Type:** Attribute
 - **ID:** QYO2ADdJI8bUxTSC_2SV-94, **Label:** Name in Landessprache, **ADAPT Type:** Attribute
 - **ID:** QYO2ADdJI8bUxTSC_2SV-98, **Label:** Land, **ADAPT Type:** HierarchyLevel
-- **ID:** QYO2ADdJI8bUxTSC_2SV-104, **Label:** Branchenschl¸ssel, **ADAPT Type:** Attribute
+- **ID:** QYO2ADdJI8bUxTSC_2SV-104, **Label:** Branchenschl√ºssel, **ADAPT Type:** Attribute
 
 ## Connections with Tooltip beginning 'ADAPT'
 - **ID:** QYO2ADdJI8bUxTSC_2SV-1, **Label:** , **Source:** QYO2ADdJI8bUxTSC_2SV-21, **Target:** QYO2ADdJI8bUxTSC_2SV-2, **ADAPT Type:** LoosePrecedence, **Start Arrow:** none, **End Arrow:** block
@@ -44,4 +44,4 @@
 
 
 ### und hier haben wir auch das Diagramm dazu:
-![Diagramm C:\Users\meik.truschkowski\btelligentADAPT\docs\Nudelsalat](png\C:\Users\meik.truschkowski\btelligentADAPT\docs\Nudelsalat.png)
+![Diagramm Nudelsalat](./png/Nudelsalat.png)
